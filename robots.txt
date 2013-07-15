@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://RailsGirlsATX.github.io/sitemap.xml 
